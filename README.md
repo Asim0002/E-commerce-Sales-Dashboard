@@ -83,11 +83,11 @@ Quarter and State slicers provide quick drill-down filters for time and geograph
 
 Boosted decision-making speed by eliminating Excel reports
 
-## 6. Screenshots / Demos
-https://github.com/Asim0002/E-commerce-Sales-Dashboard/blob/main/Dashboard%20Pic.png
-
 Helped managers identify underperforming states or months
 
 Supported inventory strategy by showcasing category-wise quantity breakdown
 
 Enabled sales segmentation by customer value and payment trends
+
+## 6. Screenshots / Demos
+https://github.com/Asim0002/E-commerce-Sales-Dashboard/blob/main/Dashboard%20Pic.png
