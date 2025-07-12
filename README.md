@@ -25,10 +25,10 @@ Details Dataset.csv: Contains Quantity, Profit, AOV (Average Order Value), and u
 The datasets were joined on the Order ID field to unify sales and transaction-level details.
 
 ## 5. Features / Highlights
-• Business Problem
+## • Business Problem
 Sales managers lacked an efficient way to analyze large volumes of order data and uncover high- and low-performing regions, products, or customer segments. Manual Excel reports were slow and inflexible.
 
-• Goal of the Dashboard
+## • Goal of the Dashboard
 To build a fast, filterable, and user-friendly tool that:
 
 Tracks total sales, profits, and quantities in real-time
@@ -39,9 +39,9 @@ Identifies top-performing customers and payment modes
 
 Helps optimize category-wise performance and promotional strategies
 
-• Walkthrough of Key Visuals
+## • Walkthrough of Key Visuals
 
-KPI Cards (Top Left)
+## KPI Cards (Top Left)
 
 Total Sales: ₹438K
 
@@ -51,35 +51,35 @@ Total Profit: ₹37K
 
 AOV: ₹121K
 
-Bar Chart – Profit by State
+## Bar Chart – Profit by State
 
 Highlights which states (e.g., Madhya Pradesh, Maharashtra) drive profits
 
-Pie Chart – Quantity by Category
+## Pie Chart – Quantity by Category
 
 Visualizes product category split: Electronics, Fashion, etc.
 
-Line Chart – Monthly Profit
+## Line Chart – Monthly Profit
 
 Shows seasonality and identifies dips (e.g., losses in June and December)
 
-Pie Chart – Quantity by Payment Mode
+## Pie Chart – Quantity by Payment Mode
 
 Evaluates preferred payment methods (e.g., COD vs. UPI)
 
-Bar Chart – Profit by Sub-Category
+## Bar Chart – Profit by Sub-Category
 
 Reveals high-profit items like Printers and Bookcases
 
-Bar Chart – Amount by Customer Name
+## Bar Chart – Amount by Customer Name
 
 Identifies top individual buyers contributing most to revenue
 
-Slicers
+## Slicers
 
 Quarter and State slicers provide quick drill-down filters for time and geography
 
-• Business Impact & Insights
+## • Business Impact & Insights
 
 Boosted decision-making speed by eliminating Excel reports
 
