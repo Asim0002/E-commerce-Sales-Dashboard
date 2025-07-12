@@ -3,7 +3,7 @@
 ## Recommended Structure and Order
 
 ## 1. Project Title / Headline
-📦 SalesPulse: E-Commerce Insights Dashboard
+SalesPulse: E-Commerce Insights Dashboard
 An interactive Power BI dashboard built to analyze online retail performance, visualize regional and customer trends, and enable strategic sales decision-making through dynamic visuals and filters.
 
 ## 2. Short Description / Purpose
@@ -11,11 +11,11 @@ The SalesPulse Dashboard enables business users to explore sales patterns across
 
 ## 3. Tech Stack
 The dashboard was built using the following tools and technologies:<br>
-• 📊 Power BI Desktop – Report creation, DAX measures, and visuals<br>
-• 🔄 Power Query – Data cleaning, merging (Orders Dataset + Details Dataset)<br>
-• 🧠 DAX (Data Analysis Expressions) – For KPIs, dynamic filtering, and custom logic<br>
-• 📈 Custom Visualizations – Donut charts, bar/column charts, line graphs, map visualizations<br>
-• 📁 File Format – .pbit for template sharing; .csv for raw data inputs
+• Power BI Desktop – Report creation, DAX measures, and visuals<br>
+• Power Query – Data cleaning, merging (Orders Dataset + Details Dataset)<br>
+• DAX (Data Analysis Expressions) – For KPIs, dynamic filtering, and custom logic<br>
+• Custom Visualizations – Donut charts, bar/column charts, line graphs, map visualizations<br>
+• File Format – .pbit for template sharing; .csv for raw data inputs
 
 ## 4. Data Source
 Primary Source:
