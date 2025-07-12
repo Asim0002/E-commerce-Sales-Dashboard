@@ -1,5 +1,7 @@
 # E-Commerce Sales Performance Dashboard using Power BI
 
+## Recommended Structure and Order
+
 ## 1. Project Title / Headline
 📦 SalesPulse: E-Commerce Insights Dashboard
 An interactive Power BI dashboard built to analyze online retail performance, visualize regional and customer trends, and enable strategic sales decision-making through dynamic visuals and filters.
